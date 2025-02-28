@@ -4,7 +4,7 @@ Codepath unit1 Wordle project
 
 Submitted by: **Bo Liu**
 
-**Wordle** is an app that ... [TODO] 
+**Wordle** is an app that Wordle is an app that challenges players to guess a five-letter word within six attempts, providing color-coded feedback to indicate correct and misplaced letters. It became widely popular for its simple yet engaging gameplay and daily word puzzles.
 
 Time spent: **6** hours spent in total
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
+- [x] Improve and customize the user interface by adding a launchscreen and app icon
 - [ ] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]]([https://www.youtube.com/watch?v=GA92eKlYio4](https://youtube.com/shorts/fLzS09YgLi0)) .
 
 
 ## Notes
